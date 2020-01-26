@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a020f304-844f-4ef1-9bba-c12bd1101815" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Wh3135X3V90oe9SbAIDb9JMAhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Library/Models" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Library/Models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a020f304-844f-4ef1-9bba-c12bd1101815" name="Default Changelist" comment="" />
+      <created>1579587780996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579587780996</updated>
+      <workItem from="1579587782473" duration="143721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579809834304">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="698" y="381" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1579809834304" />
+    <state x="709" y="333" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1580028778082">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="709" y="333" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1580028778082" />
+    <state x="465" y="210" key="SettingsEditor" timestamp="1579601860525">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="465" y="210" key="SettingsEditor/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1579601860525" />
+    <state x="610" y="310" width="721" height="530" key="find.popup" timestamp="1580041528287">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="610" y="310" width="721" height="530" key="find.popup/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1580041528287" />
+    <state x="635" y="265" key="run.anything.popup" timestamp="1579790343442">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="635" y="265" key="run.anything.popup/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1579790343442" />
+    <state x="634" y="256" key="search.everywhere.popup" timestamp="1579809827262">
+      <screen x="0" y="0" width="1920" height="1164" />
+    </state>
+    <state x="634" y="256" key="search.everywhere.popup/1920.0.1024.768/0.0.1920.1164@0.0.1920.1164" timestamp="1579809827262" />
+  </component>
+</project>
