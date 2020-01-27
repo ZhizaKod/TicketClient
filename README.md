@@ -1,6 +1,4 @@
-<p align="center">
+<pre>
 composer install
-</p>
-<p align="center">
 php artisan serve
-</p>
+</pre>
